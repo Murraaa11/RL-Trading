@@ -1,5 +1,4 @@
-# RL-Trading
-## Self-adapting Trading Systems Based on Reinforcement Learning
+# Self-adapting Trading Systems Based on Reinforcement Learning
 
 The project aimed to build self-adapting trading systems using reinforcement learning techniques in order
 to maximize the profit. I constructed these trading systems by different settings (discounted setting and
